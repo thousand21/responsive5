@@ -1,0 +1,52 @@
+@media screen and (min-width:320px) and (max-width:600px) {
+    div{
+        width: 33.3%;
+        height: 105px;
+    }
+
+    #carre1{
+        background-color: red;
+    }
+    #carre2{
+        background-color: green;
+    }
+    #carre3{
+        background-color:orange;
+    }
+    
+    
+}
+@media screen and (min-width:601px) and (max-width:1024px) {
+    div{
+        width: 33.3%;
+        height: 200px;
+    }
+    
+    #carre1{
+        background-color: red;
+    }
+    #carre2{
+        background-color: green;
+    }
+    #carre3{
+        background-color:orange;
+    }
+    
+}
+@media screen and (min-width:1025px) {
+    div{
+        width: 33.3%;
+        height: 340px;
+    }
+    #carre1{
+        background-color: red;
+    }
+    #carre2{
+        background-color: green;
+    }
+    #carre3{
+        background-color:orange;
+    }
+    
+    
+}
